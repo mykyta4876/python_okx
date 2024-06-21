@@ -1,0 +1,47 @@
+[2024/05/17][10:18:53]  
+[2024/05/17][10:18:53]  ALERT: elonmusk7106281 BTCUSDT
+[2024/05/17][10:18:53] ----------------------------
+[2024/05/17][10:18:53]  * E: Invalid Order: Missing command
+[2024/05/17][10:50:07]  
+[2024/05/17][10:50:07]  ALERT: elonmusk7106281 BTCUSDT %40 3x long
+[2024/05/17][10:50:07] ----------------------------
+[2024/05/17][10:50:07]  * E: Invalid quantity value
+[2024/05/17][10:50:42]  
+[2024/05/17][10:50:42]  ALERT: elonmusk7106281 BTCUSDT 40% 3x long
+[2024/05/17][10:50:42] ----------------------------
+[2024/05/17][10:50:48]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBC3276d7a3f644cac6","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715957449430"}],"inTime":"1715957449428821","msg":"All operations failed","outTime":"1715957449429663"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][10:56:41]  
+[2024/05/17][10:56:41]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 3x long
+[2024/05/17][10:56:41] ----------------------------
+[2024/05/17][10:56:45]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBC73176237bfef50ef","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715957806561"}],"inTime":"1715957806558843","msg":"All operations failed","outTime":"1715957806560671"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][10:57:31]  
+[2024/05/17][10:57:31]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 3x buy
+[2024/05/17][10:57:31] ----------------------------
+[2024/05/17][10:57:35]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBC58caa4340825499b","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715957856677"}],"inTime":"1715957856675651","msg":"All operations failed","outTime":"1715957856676311"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][10:58:19]  
+[2024/05/17][10:58:19]  ALERT: elonmusk7106281 GMX/USDT 40% 3x buy
+[2024/05/17][10:58:19] ----------------------------
+[2024/05/17][10:58:19]  * E: Couldn't find symbol
+[2024/05/17][11:09:34]  
+[2024/05/17][11:09:34]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 3x buy
+[2024/05/17][11:09:34] ----------------------------
+[2024/05/17][11:09:39]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBC4423708b89a8dea7","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715958580897"}],"inTime":"1715958580894994","msg":"All operations failed","outTime":"1715958580896539"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][11:38:28]  
+[2024/05/17][11:38:28]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 5x buy
+[2024/05/17][11:38:28] ----------------------------
+[2024/05/17][11:38:33]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBCf8034c7dbcb4e4b7","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715960314058"}],"inTime":"1715960314056911","msg":"All operations failed","outTime":"1715960314058563"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][11:40:16]  
+[2024/05/17][11:40:16]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 5x buy
+[2024/05/17][11:40:16] ----------------------------
+[2024/05/17][11:40:20]  * E: Unhandled exception. Cancelling: okx {"code":"1","data":[{"clOrdId":"e847386590ce4dBC3313b11308bf3014","ordId":"","sCode":"51010","sMsg":"You can't complete this request under your current account mode. ","tag":"e847386590ce4dBC","ts":"1715960421348"}],"inTime":"1715960421348517","msg":"All operations failed","outTime":"1715960421349222"} <class 'ccxt.base.errors.AccountNotEnabled'>  updateOrdersQueue
+[2024/05/17][11:49:24]  
+[2024/05/17][11:49:24]  ALERT: elonmusk7106281 BTC-USDT-SWAP 40% 5x buy
+[2024/05/17][11:49:24] ----------------------------
+[2024/05/17][11:49:28]  * Order successful: BTC/USDT:USDT buy 149.1 5x at price 67053.9 id 1458227588387901440
+[2024/05/17][18:44:28]  
+[2024/05/17][18:44:28]  ALERT: r short elonmusk7106281
+[2024/05/17][18:44:28] ----------------------------
+[2024/05/17][18:44:28]  * E: Couldn't find symbol
+[2024/05/17][20:58:43]  
+[2024/05/17][20:58:43]  ALERT: r short elonmusk7106281
+[2024/05/17][20:58:43] ----------------------------
